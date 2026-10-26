@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-16",
+ "updated": "2026-10-26",
  "games": [
   {
    "package": "ru.ya.lelik1.lianapassage",
@@ -14,14 +14,14 @@
    "name": "Багровые Склепы",
    "pitch": "Подземелье, магия и боссы — 40 уровней",
    "icon": "https://abuserfaq.github.io/rustore-privacy/crosspromo/ru.crypts.game.png",
-   "enabled": false
+   "enabled": true
   },
   {
    "package": "ru.ya.lelik1.capyfarm",
    "name": "Капи-Ферма",
    "pitch": "Уютная ферма капибар, лам и малышей",
    "icon": "https://abuserfaq.github.io/rustore-privacy/crosspromo/ru.ya.lelik1.capyfarm.png",
-   "enabled": false
+   "enabled": true
   },
   {
    "package": "ru.ya.lelik1.hypergame",
